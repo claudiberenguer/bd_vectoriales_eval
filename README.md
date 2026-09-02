@@ -1,7 +1,7 @@
 # INSTALACIÓN DEL REPOSITORIO
 
 0. clonar el repositorio
-1. copiar una GEMINI_AP_KEY valida el archivo llamado .env (está em la raíz)
+1. copiar una GEMINI_AP_KEY valida el archivo llamado .env (está en la raíz)
 2. en la raíz, ejecutar `uv venv --python 3.12 .venv`
 3. en la raíz ejecutar `source .venv/bin/activate` (linux); si en windows, .venv\Scripts\activate
 4. en la raíz, ejectuar `uv pip install -r requirements.txt`
