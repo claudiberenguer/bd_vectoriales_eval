@@ -1,0 +1,6 @@
+.venvT10
+__pycache__/
+.vscode
+chroma.sqlite3
+*.bin
+*.pickle
