@@ -11,11 +11,11 @@
 8. Ejecutar de forma secuencial el notebook. En él está toda la información
 
 Contenido del repositorio:
-  - archivo .env donde copiar una GEMINI_API_KEY válida
-  - directorio notebooks_ii. Contiene:
+  - `archivo .env` donde copiar una GEMINI_API_KEY válida
+  - `directorio notebooks_ii`. Contiene:
       - ENTREGA.ipynb: contiene un índice que aproximadamente mapea los puntos del ejercico. Tabién contiene una sección con los docstring de utils.py para consulta rápida
-      - utils.py: este archivo contiene funciones que se usan en ENTREGA.ipynb. Prácticamente toda la lógica está en ese archivo
-  - directorio datos. contiene los datos del ejercicio
-  - directorio db. Es donde se crea la base de datos ChromaDB desde, desde ENTREGA.ipynb
-  - artifacts. algunos archivos de resultados
+      - `utils.py`: este archivo contiene funciones que se usan en ENTREGA.ipynb. Prácticamente toda la lógica está en ese archivo
+  - `irectorio datos`. contiene los datos del ejercicio
+  - `directorio db`. Es donde se crea la base de datos ChromaDB desde, desde ENTREGA.ipynb
+  - `artifacts`. algunos archivos de resultados
       
